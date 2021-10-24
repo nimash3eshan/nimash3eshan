@@ -1,10 +1,35 @@
-- 👋 Hi, I’m nimash eshan
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on any new Projects
-- 📫 How to reach me 
+<?php
 
-<!---
-nimash3eshan/nimash3eshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'MEA Mobile',
+                'position' => 'Full Stack Developer'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
