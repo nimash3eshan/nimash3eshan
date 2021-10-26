@@ -7,7 +7,7 @@
 </br></br></br>
 
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **React**
+- 🔭 I’m currently more into the **React JS**
 - 🌱 I’m currently studying in **University of Moratuwa**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
