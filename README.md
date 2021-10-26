@@ -1,7 +1,7 @@
 ### <h2>ආයුබෝවන්(Welcome)🙏🏻, I'm Nimash!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/QvVUMjTXnHtqYTYCQt/giphy.gif" alt="Nimash Eshan" width="500" height="250"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<!<img align="left"  src="https://media.giphy.com/media/QvVUMjTXnHtqYTYCQt/giphy.gif" alt="Nimash Eshan" width="500" height="250"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;>
 </br>
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
