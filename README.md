@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E718F7&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Nimash+Eshan%2C+IT+Student+from+SriLanka+%F0%9F%98%83;Looking+for+Developing+new+and+Intriguing+open-source+projects+%E2%9C%A8)](https://nimasheshan.tk)
 <hr>
 
+<!---
 ## 🤹‍♂️ About Me:
 🔭 I’m currently working on My Future<br>🤝 I’m looking to develop new and intriguing open-source projects, with the community, for the community<br>💬 Ask me about Technology, microcontrollers, programming, mathematics<br>⚡ Fun fact The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
-
+-->
 ![](https://komarev.com/ghpvc/?username=nimash3eshan&color=blueviolet)
 
 
