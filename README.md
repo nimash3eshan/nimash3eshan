@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nimash3eshan&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nimash3eshan&theme=merko&hide_border=false)<br/>
 
-## 🎯 Wakatime Stats: Since SEP 11 2023
+## 🎯 Wakatime Stats
 [![Nimash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nimash&layout=compact&theme=radical&langs_count=8)](https://wakatime.com/@nimash)
 
 ## 🏆 GitHub Trophies
